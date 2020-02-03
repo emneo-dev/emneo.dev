@@ -74,3 +74,34 @@ footer {
 	margin-top: auto;
 	margin-left: 20px;
 }
+
+/* Aye LMAO */
+html:after {
+  content: "";
+  position: absolute;
+    top: 0px;
+    left: 0px;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://media.giphy.com/media/l378vg4Pm9LGnmD6M/giphy.gif");
+  background-size: cover;
+  background-position: center;
+  background-color: transparent !important;
+  opacity: 0.9;
+  mix-blend-mode: hue;
+  z-index: 999999999999;
+  pointer-events: none;
+}
+
+@keyframes ohgodohfuck {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+main {
+    animation: ohgodohfuck 5s infinite alternate;
+}
