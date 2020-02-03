@@ -63,7 +63,7 @@ a, h1, h3 {
 ul, h1, h3, img {
 	margin: 10px 0;
 }
-img {
+.pp {
 	display: block;
 	border-radius: 100%;
 	width: 512px;
