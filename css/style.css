@@ -73,7 +73,7 @@ footer {
 
 /* Aye LMAO */
 /* I highly recommend not to uncomment that ;) */
-/* html:after {
+html:after {
   content: "";
   position: absolute;
     top: 0px;
@@ -101,4 +101,4 @@ footer {
 
 main {
     animation: ohgodohfuck 5s infinite alternate;
-} */
+}
