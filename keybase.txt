@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/huntears
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://huntears.com
+  * I am huntears (https://keybase.io/huntears) on keybase.
+  * I have a public key ASAUomRNtAVZ3m2gDSitVbkpVqL0BqS27HFx6rbuAzqyGQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012014a2644db40559de6da00d28ad55b92956a2f406a4b6ec7171eab6ee033ab2190a",
+      "host": "keybase.io",
+      "kid": "012014a2644db40559de6da00d28ad55b92956a2f406a4b6ec7171eab6ee033ab2190a",
+      "uid": "5e354c91102b4dea7d584f03409a9f19",
+      "username": "huntears"
+    },
+    "merkle_root": {
+      "ctime": 1628075580,
+      "hash": "f3ffa9afb72208cd83c301e6e73c5d1f05796bc5d9e7543524c8e89ae517d19c66726e3b5e9ec02a21cbff5c1dd0d717b3c9d2306dd16ca1ae0c9cbd59d74d6f",
+      "hash_meta": "6004121e14a942dc5c1fa798224718be0cc1fd22e1dd86e95314ca019fd87b18",
+      "seqno": 20503096
+    },
+    "service": {
+      "entropy": "MDqRQP1lSDrgNU5jwchsEn+b",
+      "hostname": "huntears.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1628075597,
+  "expire_in": 504576000,
+  "prev": "1bfe179c9241bf0e223d2ac9d48fa60d8eee160fc4cdc769a1a53c125888ac37",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFKJkTbQFWd5toA0orVW5KVai9Aaktuxxceq27gM6shkKp3BheWxvYWTESpcCCcQgG/4XnJJBvw4iPSrJ1I+mDY7uFg/EzcdpoaU8EliIrDfEIEhiH2Q8PzSJHS/gINeIu892nvEax09XGnlKwiy6nXYKAgHCo3NpZ8RAfWmbF11kTY+C8ZmkJ6q+tC+SQaDFpJRcuXOA9AsULcy3MA2wTlBHGSOkFA5wWjRdfdHgN42biKmRy8XXcScyDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIChlwJw6+VWbJcwzOtSj+R0BCywJqm5OA5+T/juBGqaBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/huntears
+
+==================================================================
