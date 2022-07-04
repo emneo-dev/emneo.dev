@@ -6,6 +6,7 @@ environment:
   site: huntears.com
 tasks:
 - package: |
+    cd $site
     tar -cvz . > site.tar.gz
 - upload: |
     hut pages publish -d $site site.tar.gz
