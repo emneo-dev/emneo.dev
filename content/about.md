@@ -21,4 +21,4 @@ You can find me on the fediverse (@huntears@fosstodon.org), and on matrix (@hunt
 
 So, there you have it... enjoy!
 
-![An art of my OC sitting with long black hair and a skirt](/img/Com_2.png)
+![pfp_oc](/img/Com_2.png "An art of my OC sitting with long black hair and a skirt")
