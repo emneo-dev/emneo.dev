@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://huntears.com/"
 title: huntears' den
 paginate: 5
 theme: PaperMod
@@ -16,7 +16,7 @@ params:
   env: production
   title: "huntears' den"
   description: "A simple website for me to post stuff"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, PaperMod, Hugo, Markdown]
   author: huntears
   images: ["https://github.com/huntears.png"]
   DateFormat: "January 2, 2006"
@@ -87,11 +87,11 @@ menu:
   main:
     - identifier: posts
       name: posts
-      url: /post/
+      url: post
       weight: 10
     - identifier: about
       name: about
-      url: /about/
+      url: about
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

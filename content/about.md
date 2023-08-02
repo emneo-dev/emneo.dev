@@ -21,5 +21,4 @@ You can find me on the fediverse (@huntears@fosstodon.org), and on matrix (@hunt
 
 So, there you have it... enjoy!
 
-<!-- <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}"> -->
 ![An art of my OC sitting with long black hair and a skirt](/img/Com_2.png)
