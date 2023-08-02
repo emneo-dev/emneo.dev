@@ -1,4 +1,4 @@
-baseURL: "https://huntears.com/"
+baseURL: "/"
 title: huntears' den
 paginate: 5
 theme: PaperMod
