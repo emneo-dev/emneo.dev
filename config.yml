@@ -47,7 +47,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "huntears' den"
     subtitle: "A hangout for random stuff I think of and do"
-    imageUrl: "https://github.com/huntears.png"
+    imageUrl: "/img/pfp.webp"
     imageWidth: 240
     imageHeight: 240
     imageTitle: "My profile picture, as my OC with long black hair doing a peace sign"
