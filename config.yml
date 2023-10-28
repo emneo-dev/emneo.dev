@@ -40,7 +40,7 @@ params:
   tocopen: false
 
   assets:
-    favicon: "img/favicon.ico"
+    favicon: "/img/pfp.webp"
 
   # profile-mode
   profileMode:
