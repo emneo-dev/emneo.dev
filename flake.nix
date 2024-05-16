@@ -20,7 +20,7 @@
     ]
     (system: let
       pkgs = nixpkgs.legacyPackages.${system};
-    in rec {
+    in {
       formatter = pkgs.alejandra;
 
       checks = let
