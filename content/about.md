@@ -6,7 +6,7 @@ author: "huntears"
 
 # Hi there
 
-I am Alexandre Flion (huntears), a 21 years old student at Epitech
+I am huntears, a 21 years old student at Epitech
 Toulouse in 5th year and I administrate this website.
 
 I speak French, English, and a tiny bit of Spanish (I am currently learning
