@@ -1,12 +1,12 @@
 ---
 title: "About"
 date: "2023-02-17"
-author: "huntears"
+author: "emneo"
 ---
 
 # Hi there
 
-I am huntears, a 21 years old student at Epitech
+I am emneo, a 21 years old student at Epitech
 Toulouse in 5th year and I administrate this website.
 
 I speak French, English, and a tiny bit of Spanish (I am currently learning
@@ -18,7 +18,7 @@ to get away from big tech corporations. I am also the Lead Developer on
 cubic-server, a Minecraft server implementation in C++.
 
 You can find me on the fediverse (@huntears@fosstodon.org), on matrix
-(@huntears:matrix.org) and on discord (huntears).
+(@huntears:matrix.org) and on discord (emneo-dev).
 
 So, there you have it... enjoy!
 

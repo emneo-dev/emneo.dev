@@ -1,5 +1,5 @@
-baseURL: "https://huntears.com/"
-title: huntears' den
+baseURL: "https://emneo.dev/"
+title: emneo's den
 paginate: 5
 theme: PaperMod
 
@@ -14,11 +14,11 @@ minify:
 
 params:
   env: production
-  title: "huntears' den"
+  title: "emneo's den"
   description: "A simple website for me to post stuff"
   keywords: [Blog, Portfolio, PaperMod, Hugo, Markdown, Technology, C++, C, Minecraft]
   author: huntears
-  images: ["https://huntears.com/img/pfp.webp"]
+  images: ["https://emneo.dev/img/pfp.webp"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -45,7 +45,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "huntears' den"
+    title: "emneo's den"
     subtitle: "A hangout for random stuff I think of and do"
     imageUrl: "/img/pfp.webp"
     imageWidth: 240
@@ -68,7 +68,7 @@ params:
     - name: gitlab
       url: "https://gitlab.com/huntears"
     - name: github
-      url: "https://github.com/huntears"
+      url: "https://github.com/emneo-dev"
 
   cover:
     hidden: true # hide everywhere but not in structured data

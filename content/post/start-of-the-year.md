@@ -1,7 +1,7 @@
 ---
 title: "Start of a new year"
 date: "2024-01-01"
-author: "huntears"
+author: "emneo"
 description: "2023's retrospective and hopes for the new year"
 ---
 
