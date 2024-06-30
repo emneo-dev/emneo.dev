@@ -64,7 +64,7 @@ params:
 
   socialIcons:
     - name: mastodon
-      url: "https://fosstodon.org/@huntears"
+      url: "https://fosstodon.org/@emneo"
     - name: gitlab
       url: "https://gitlab.com/huntears"
     - name: github
