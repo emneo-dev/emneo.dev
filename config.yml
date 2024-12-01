@@ -16,7 +16,8 @@ params:
   env: production
   title: "emneo's den"
   description: "A simple website for me to post stuff"
-  keywords: [Blog, Portfolio, PaperMod, Hugo, Markdown, Technology, C++, C, Minecraft]
+  keywords:
+    [Blog, Portfolio, PaperMod, Hugo, Markdown, Technology, C++, C, Minecraft]
   author: huntears
   images: ["https://emneo.dev/img/pfp.webp"]
   DateFormat: "January 2, 2006"
@@ -65,8 +66,6 @@ params:
   socialIcons:
     - name: mastodon
       url: "https://fosstodon.org/@emneo"
-    - name: gitlab
-      url: "https://gitlab.com/huntears"
     - name: github
       url: "https://github.com/emneo-dev"
 
