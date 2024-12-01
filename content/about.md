@@ -18,7 +18,8 @@ to get away from big tech corporations. I am also the Lead Developer on
 liskvork, a modern cross-platform game server for Gomoku (still very early.)
 
 You can find me on the fediverse (@emneo@fosstodon.org) and on discord
-(emneo).
+(emneo). You can also just send me an email (emneo@kreog.com), it's genuinely
+the better way to contact me.
 
 So, there you have it... enjoy!
 
