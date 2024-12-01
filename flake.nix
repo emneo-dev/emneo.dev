@@ -40,7 +40,7 @@
       devShells.default = pkgs.mkShell {
         inherit (self.checks.${system}.pre-commit-check) shellHook;
 
-        name = "huntears.com";
+        name = "emneo.dev";
 
         packages = with pkgs; [
           hugo
