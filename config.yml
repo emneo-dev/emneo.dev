@@ -18,7 +18,7 @@ params:
   description: "A simple website for me to post stuff"
   keywords:
     [Blog, Portfolio, PaperMod, Hugo, Markdown, Technology, C++, C, Minecraft]
-  author: huntears
+  author: emneo
   images: ["https://emneo.dev/img/pfp.webp"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
